@@ -1,1 +1,1 @@
-Hi, testing out react again ! checking out remote 
+Hi, testing out react again ! checking out remote , changing contents from develop branch!
